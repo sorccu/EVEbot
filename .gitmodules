@@ -1,0 +1,3 @@
+[submodule "irccat"]
+	path = irccat
+	url = git://github.com/RJ/irccat.git
